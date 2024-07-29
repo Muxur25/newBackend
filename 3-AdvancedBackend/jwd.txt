@@ -1,0 +1,22 @@
+jwd tokkent bu xavsiz autifikatsiya qilish  usuli
+
+
+jwd tokken 3 qismdan tashkil topgan
+
+
+1 header
+2 payload
+3 imzo
+
+1 header da tokken turi va uni algoritmi
+2 payload foydalanuvchi malumotlari
+3 imzo maxsus imzo bu 1 va 2 dan kelib ciqib yaratiladi va eng asosiysi ham shu
+
+// acsess token va refresh token
+
+// acsess token malum bir foydalanuvchiga beriladigan tokendur uni foydalanish muddati uzogi 15 min va serverga dostup olsih ucn
+// refresh token acsess tokenni ozgartirish ucun
+
+
+
+npm i jsonwebtoken cookie-parser

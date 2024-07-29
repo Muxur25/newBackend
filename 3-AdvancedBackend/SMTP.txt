@@ -1,0 +1,12 @@
+SMTP -- bu gmail ga xat yuborish uchun ishlatilinadi uni yoqish uchun bir nechta etapdan otish zarur 
+
+gmailni nastroykasiga kiramiz
+
+forwarding and pop/imap digan joyga otamiz
+va pasroda imap acsess ni enable qilamiz va save ni bosamiz
+
+google accauntdan 2 darajali ximoyani yoqamiz
+
+google accaunt boshqaruv paneliga app password db yozamiz va yangi nom beramiz u bozga qanaqadur parol beradi uni copy qilib .env ga qoyamiz
+
+npm i nodemailer   --- yuklab olamiz shu kutubxonani
